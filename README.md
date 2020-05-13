@@ -1,5 +1,8 @@
 # Tests for WES worfklow attachments
 
+Verify that the **workflow attachment** parameter of a [GA4GH WES][ga4gh-wes]
+implementation is functional.
+
 > Note that this file (`README.md`) is required by the some of the commands, so
 > do not delete/rename it
 
